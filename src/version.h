@@ -1,5 +1,5 @@
 
 #ifndef VERSION
-  #define VERSION "SNAPSHOT"
+  #define VERSION "2afa130"
 #endif
-#define BUILD_EPOCH 1669744595
+#define BUILD_EPOCH 1673897296

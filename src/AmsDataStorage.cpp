@@ -1,5 +1,6 @@
 #include "AmsDataStorage.h"
-#include <lwip/apps/sntp.h>
+// #include <lwip/apps/sntp.h>
+#include "apps/sntp/sntp.h"
 #include "LittleFS.h"
 #include "AmsStorage.h"
 #include "version.h"
